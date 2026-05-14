@@ -14,7 +14,7 @@ export function Technology() {
           subtitle="Utilizamos las mismas herramientas tecnológicas que los equipos profesionales de élite para medir, analizar y mejorar el rendimiento de cada jugador."
         />
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {techFeatures.map((feature) => (
             <Card key={feature.title} className="text-center">
               <div className="text-5xl mb-4">{feature.icon}</div>

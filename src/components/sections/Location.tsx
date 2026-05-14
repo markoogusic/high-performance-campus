@@ -10,8 +10,6 @@ const facilities = [
   "Sala de gimnasio de 300 m² totalmente equipada",
   "Sala de análisis de vídeo con proyector 4K",
   "Vestuarios y zonas de recuperación",
-  "Comedor y áreas de descanso",
-  "Alojamiento disponible (régimen interno/externo)", // TODO
 ];
 
 export function Location() {

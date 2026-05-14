@@ -12,12 +12,6 @@ export const techFeatures: TechFeature[] = [
       "Chalecos con sensores GPS que registran distancia recorrida, sprints, aceleraciones y carga física de cada jugador en tiempo real.",
   },
   {
-    icon: "🎬",
-    title: "Análisis de vídeo",
-    description:
-      "Grabación de todos los entrenamientos y partidos. Los analistas generan clips individualizados con correcciones técnicas y tácticas.",
-  },
-  {
     icon: "📈",
     title: "Métricas de rendimiento",
     description:
