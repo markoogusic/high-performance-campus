@@ -6,7 +6,7 @@ export interface GalleryImage {
 // TODO: reemplazar con fotos reales del campus
 export const galleryImages: GalleryImage[] = [
   {
-    src: "https://images.unsplash.com/photo-1431324155629-1a5c7a580903?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80",
     alt: "Jugadores entrenando en un campo de fútbol con césped natural",
   },
   {
@@ -22,7 +22,7 @@ export const galleryImages: GalleryImage[] = [
     alt: "Vista aérea del campo de fútbol al atardecer",
   },
   {
-    src: "https://images.unsplash.com/photo-1518604666860-9ed1ba7cd04f?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?auto=format&fit=crop&w=800&q=80",
     alt: "Jugador controlando el balón durante una sesión técnica",
   },
   {
@@ -42,7 +42,7 @@ export const galleryImages: GalleryImage[] = [
     alt: "Sesión de análisis de vídeo con el equipo técnico",
   },
   {
-    src: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1571188654248-7a89213915f7?auto=format&fit=crop&w=800&q=80",
     alt: "Jugadores estirando durante el calentamiento matinal",
   },
   {
@@ -50,7 +50,7 @@ export const galleryImages: GalleryImage[] = [
     alt: "Partido interno del campus bajo supervisión de los entrenadores",
   },
   {
-    src: "https://images.unsplash.com/photo-1453131599010-f0a4fe00f019?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=800&q=80",
     alt: "Entrenador revisando métricas GPS con un jugador en tablet",
   },
 ];
